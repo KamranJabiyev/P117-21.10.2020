@@ -1,0 +1,6 @@
+E:\P117\ClassObject\ClassObject\bin\Debug\ClassObject.exe.config
+E:\P117\ClassObject\ClassObject\bin\Debug\ClassObject.exe
+E:\P117\ClassObject\ClassObject\bin\Debug\ClassObject.pdb
+E:\P117\ClassObject\ClassObject\obj\Debug\ClassObject.csprojAssemblyReference.cache
+E:\P117\ClassObject\ClassObject\obj\Debug\ClassObject.exe
+E:\P117\ClassObject\ClassObject\obj\Debug\ClassObject.pdb
